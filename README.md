@@ -37,5 +37,6 @@ package.json                      # All dependencies and config for the template
 
 
 ## Dependencies used in this boilerplate
-
-* [autoprefixer](https://www.npmjs.com/package/autoprefixer)
+* [postcss](https://postcss.org/) - Tool for transforming CSS with JavaScript
+* [postcss-preset-env](https://preset-env.cssdb.org/) - Tomorrow's CSS today
+* [autoprefixer](https://www.npmjs.com/package/autoprefixer) - Add vendor prefixes
